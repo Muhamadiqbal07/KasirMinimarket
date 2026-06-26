@@ -130,6 +130,16 @@ KasirMinimarket/
     └── Struk_2026-06-24_14-30-15.txt
 ```
 
+## Kekurangan
+- Belum menggunakan database untuk menyimpan data barang dan kasir (hanya sekali dijalankan)
+- Data barang masih menggunakan input dan validasi kode barang 13 digit secara manual (dibutuhkan barcode scanner agar proses transaksi lebih cepat)
+- Tidak menyimpan data pelanggan seperti nama, nomor telepon, dan status member yang dapat digunakan untuk promo
+- Sistem diskon masih sederhana, menggunakan ketentuan jika total belanja di atas Rp100.000, maka diskon 10%
+- Hanya mendukung login satu kasir dalam satu waktu (belum mendukung multi-user)
+- Masih menggunakan CLI (Command Line Interface) sebagai transaksi dan tampilan yang sederhana
+- Keamanan login masih sederhana, dibutuhkan sistem yang lainnya seperti hashing atau enkripsi
+- Output hanya berupa `.txt` dan belum mendukung format lain
+
 ## Pembuat
 Projek ini dibuat oleh:
 - Andriyawan (2025310026)

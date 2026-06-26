@@ -1,0 +1,17 @@
+----- STRUK TRANSAKSI -----
+2026-06-24 10:13:26 / 1.0.0 / QF-1217 / Andriyawan / KS001
+------------------------------------------------------------------
+NAMA BARANG               QTY      HARGA        SUBTOTAL    
+Teh Pucuk                 4        6500         26000       
+Pocky                     3        18900        56700       
+Le Minerale 1,5L          2        6000         12000       
+Indomie                   12       3600         43200       
+Roti Sobek                5        18500        92500       
+                                VOUCHER/DISKON : 23040       
+------------------------------------------------------------------
+                                                  TOTAL BELANJA : 207360
+                                                          TUNAI : 210000
+                                                        KEMBALI : 2640
+                                                     ANDA HEMAT : 23040
+
+=== TERIMA KASIH TELAH BERBELANJA ===

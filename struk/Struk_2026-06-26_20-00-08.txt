@@ -1,0 +1,12 @@
+----- STRUK TRANSAKSI -----
+2026-06-26 20:00:08 / 1.0.0 / CF-4660 / Andriyawan / KS001
+------------------------------------------------------------------
+NAMA BARANG               QTY      HARGA        SUBTOTAL    
+Indomie                   3        8000         24000       
+------------------------------------------------------------------
+                                                  TOTAL BELANJA : 24000
+                                                          TUNAI : 24000
+                                                        KEMBALI : 0
+                                                     ANDA HEMAT : 0
+
+=== TERIMA KASIH TELAH BERBELANJA ===

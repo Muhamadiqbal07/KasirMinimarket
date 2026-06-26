@@ -1,0 +1,12 @@
+----- STRUK TRANSAKSI -----
+2026-06-24 08:46:03 / 1.0.0 / XL-8379 / Muhamad Iqbal / KS002
+------------------------------------------------------------------
+NAMA BARANG               QTY      HARGA        SUBTOTAL    
+q                         6        12000        72000       
+------------------------------------------------------------------
+                                                  TOTAL BELANJA : 72000
+                                                          TUNAI : 72000
+                                                        KEMBALI : 0
+                                                     ANDA HEMAT : 0
+
+=== TERIMA KASIH TELAH BERBELANJA ===

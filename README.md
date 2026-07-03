@@ -46,6 +46,7 @@ Class yang digunakan:
    - Login
    - Transaksi
    - Utilitas
+   - Main
 ### 2. Constructor
 Contoh:
 `public Barang(String kodeBarang, String namaBarang, double harga, int qty)`

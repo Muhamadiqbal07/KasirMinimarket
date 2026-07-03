@@ -34,9 +34,6 @@ KasirMinimarket/
 ├── struk/
 │   └── (hasil output transaksi)
 │
-├── docs/
-│   └── Laporan Sistem Kasir.pdf
-│
 ├── README.md
 └── .gitignore
 ```
